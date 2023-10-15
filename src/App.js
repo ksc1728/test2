@@ -74,12 +74,3 @@ class App extends Component {
 }
 
 export default App;
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/ksc1728/test5.git
-// git push -u origin main
-
-// git config user.name "ksc1728"
-// git config user.email "srichandana.kas@gmail.com"
